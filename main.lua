@@ -70,7 +70,7 @@ function Library:Create(name,subname,keybind)
 	PageHolder.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
 	PageHolder.BorderSizePixel = 0
 	PageHolder.Position = UDim2.new(0.297674417, 0, 0.0191256832, 0)
-	PageHolder.Size = UDim2.new(0, 447, 0, 353)
+	PageHolder.Size = UDim2.new(0, 447, 0, 453)
 	UICorner.CornerRadius = UDim.new(0, 4)
 	UICorner.Parent = PageHolder
 	UICorner_2.CornerRadius = UDim.new(0, 4)
