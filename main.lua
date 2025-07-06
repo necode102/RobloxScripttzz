@@ -145,7 +145,7 @@ function Library:Create(name,subname,keybind)
 		Page.Parent = PageHolder
 		Page.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
 		Page.BorderSizePixel = 0
-		Page.Size = UDim2.new(0, 447, 0, 453)
+		Page.Size = UDim2.new(0, 447, 0, 553)
 		UICorner.CornerRadius = UDim.new(0, 4)
 		UICorner.Parent = Page
 		PageContainer.Name = "PageContainer"
