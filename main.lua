@@ -61,7 +61,7 @@ function Library:Create(name,subname,keybind)
 	TabsHolder.BackgroundTransparency = 1.000
 	TabsHolder.BorderSizePixel = 0
 	TabsHolder.Position = UDim2.new(0.00930232555, 0, 0.158469945, 0)
-	TabsHolder.Size = UDim2.new(0, 179, 0, 302)
+	TabsHolder.Size = UDim2.new(0, 179, 0, 502)
 	UIListLayout.Parent = TabsHolder
 	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
 	UIListLayout.Padding = UDim.new(0, 8)
