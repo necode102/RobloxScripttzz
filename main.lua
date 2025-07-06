@@ -32,7 +32,7 @@ function Library:Create(name,subname,keybind)
 	Main.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 	Main.BorderSizePixel = 0
 	Main.Position = UDim2.new(0, 192, 0, 224)
-	Main.Size = UDim2.new(0, 645, 0, 366)
+	Main.Size = UDim2.new(0, 645, 0, 566)
 	Title.Name = "Title"
 	Title.Parent = Main
 	Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
